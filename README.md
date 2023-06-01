@@ -1,6 +1,7 @@
 # vue2-life-cycle
 
 ## Project setup
+
 ```
 npm install
 ```
